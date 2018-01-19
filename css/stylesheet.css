@@ -1,0 +1,54 @@
+body{
+    background-image: url("../images/data_bg.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-bottom: 20px;
+}
+.aboutrow1{
+    color:  white;
+
+}
+.edurow1{
+    color:  white;
+    margin-top: 100px;
+    padding-left: 50px;
+}
+#navbar-home{
+padding-left: 0;
+padding-bottom: 0;
+padding-top: 24px;
+padding-right: 14px;
+margin-right: 0;
+margin-left: 0;
+color: #f5f5f5;
+font-size: 20px;
+font-weight: 200;
+float: left;
+ 
+}
+.top-row-buffer{
+  margin-top:45px;
+}
+.thumbnail-text{
+  color: white;
+}
+.hawaii-percip{
+  margin-left:90px;
+}
+
+.intro-top{
+  color:white;
+  font-family: Arial, Helvetica, sans-serif	;
+}
+.thumbnail-bg{
+  background-color: black;
+}
+.pyber-thumb{
+  margin-left:90px;
+}
+
+.thumbnails {
+  text-align:center;
+  float: right;
+}
+
