@@ -1,7 +1,12 @@
+
+
 body{
-    background-image: url("../images/data_bg.jpg");
-    background-position: center;
+    background-image: url("../images/about_bg.jpg") ;
+    background-position: 0% 15%;
     background-repeat: no-repeat;
+    background-size: cover;
+    height:100%;
+    width:100%;
     padding-bottom: 20px;
 }
 .aboutrow1{
